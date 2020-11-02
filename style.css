@@ -19,9 +19,8 @@ h2 {
 }
 
 html {
-font-family: Arial Black;
+  font-family: Arial Black;
   background-color: black;
-
 }
 
 body {
@@ -30,7 +29,7 @@ body {
   border-style: ridge;
   border-color: white;
   font-family: Arial Black;
-  color:black;
+  color: black;
   margin: 50px;
   padding-bottom: 50px;
   padding: 15px;

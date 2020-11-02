@@ -1,0 +1,66 @@
+h1 {
+  color: white;
+  font-family: Arial Black;
+  font-size: 45pt;
+  text-align: left;
+  text-shadow: 3px 2px #6e9366;
+  margin-left: .4in;
+  margin-right: .4in;
+}
+
+h2 {
+  color: white;
+  font-family: Arial Black;
+  font-size: 25pt;
+  text-align: left;
+  text-shadow: 3px 2px #6e9366;
+  margin-left: .4in;
+  margin-right: .4in;
+}
+
+html {
+  font-family: Arial Black;
+  background-color: black;
+}
+
+body {
+  background-image: url("bg.jpg");
+  border: 5px;
+  border-style: ridge;
+  border-color: white;
+  font-family: Arial Black;
+  color: black;
+  margin: 50px;
+  padding-bottom: 50px;
+  padding: 15px;
+  align-items: center;
+  alignment: center;
+  align-content: center;
+}
+
+.pink {
+  font-family: Arial Black;
+  background-color: white;
+  color: black;
+  font-family: Courier New;
+  font-size: 15pt;
+  text-align: left;
+  padding: 20px;
+  margin-left: .4in;
+  margin-right: .4in;
+  border: auto;
+  border-color: #6e9366;
+  border-width: 8px;
+  border-style: groove;
+}
+
+button {
+  font-family: Arial Black;
+  font-style: oblique;
+  margin-left: 70px;
+  padding: 20px;
+  background-color: #6e9366;
+  color: #a80c26;
+  border: 9px;
+  border-style: double;
+}
